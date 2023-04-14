@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/munch" name="Datta0/device_xiaomi_munch.git" remote="github" revision="main" />
+ <project path="device/xiaomi/sm8250-common" name="Datta0/device_xiaomi_sm8250-common.git" remote="github" revision="main" />
+ <project path="vendor/xiaomi/sm8250-common" name="madmax7896/android_vendor_xiaomi_sm8250-common.git" remote="gitlab" revision="master" />
+ <project path="kernel/xiaomi/sm8250" name="madmax7896/kernel_xiaomi_sm8250.git" remote="github" revision="arrow-13.1" />
+ 
+</manifest>
